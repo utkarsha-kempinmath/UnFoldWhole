@@ -1,5 +1,3 @@
-//84wXPsPoTznvQH98
-//mongodb+srv://utkarshakempinmath1725_db_user:84wXPsPoTznvQH98@cluster0.tqmpcbm.mongodb.net/?appName=Cluster0
 import express from "express";
 import cors from "cors";
 import mongoose from "mongoose";
